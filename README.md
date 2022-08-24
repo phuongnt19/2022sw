@@ -5,4 +5,4 @@
 ### Email: phuongnt@unist.ac.kr
 
 # Assignment
-### Link to the elastic: []()
+### Link to the elastic: [https://sw.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/9dOTu](https://sw.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/9dOTu)
